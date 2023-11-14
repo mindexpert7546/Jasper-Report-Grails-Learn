@@ -1,4 +1,8 @@
 # Jasper-Report-Grails-Learn
+
+## Learn More : 
+https://github.com/mindexpert7546/Jasper-Report-Grails-Learn/blob/main/GetStart.md
+
 ## Some Screen Shot : 
 ![Screenshot 2023-11-14 164759](https://github.com/mindexpert7546/Jasper-Report-Grails-Learn/assets/89348788/69f0495d-aa44-4658-ab85-0a5e3706384f)
 ![Screenshot 2023-11-14 164749](https://github.com/mindexpert7546/Jasper-Report-Grails-Learn/assets/89348788/316ef114-bb3f-4bd5-88e8-1bbfbc05144e)
